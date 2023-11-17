@@ -1,8 +1,26 @@
-# React + Vite
+# React + Vite + Capacitor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cette application démontre la capacité d'utiliser Capacitor pour créer une application web / moobile : Android et Ios
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Quelques commandes utiles:
+
+## Ios
+
+npx cap add Ios : créer le dossier Ios avec les fichiers prêts à être compilés pour XCODE
+npx cap open Ios: ouvre XCODE avec le projet platform Ios de VSCODE
+npx cap run Ios: dans le terminal, permet de compiler l'application et de la lancer avec une cible de simulation précise
+
+Quelques commandes utiles:
+sudo xcode-select --reset
+gem cleanup
+gem list
+curl -L https://get.rvm.io | bash -s stable
+brew reinstall ruby
+sudo gem update --system
+gem install bundler
+sudo gem install -n /usr/local/bin cocoapods --user-install
+
+## Android
+npx cap add android : créer le dossier android avec les fichiers prêts à être compilés pour android studio
+npx cap open ios: ouvre android studio avec le projet platform ios de VSCODE
