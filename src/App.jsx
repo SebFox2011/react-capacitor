@@ -1,5 +1,6 @@
 import  {useCallback, useState} from 'react';
 
+import {Button} from "@mui/material"
 import { Geolocation } from '@capacitor/geolocation';
 
 export default function GeolocationPage() {
@@ -12,15 +13,18 @@ export default function GeolocationPage() {
   }, []);
 
   return (
-    <div>
+    <div className='grid place-content-center'>
       <h1>Geolocation</h1>
       <p>Your location is:</p>
       <p>Latitude: {loc?.coords.latitude}</p>
       <p>Longitude: {loc?.coords.longitude}</p>
 
-      <button onClick={getCurrentPosition}>
+      <Button color='secondary' onClick={getCurrentPosition}>
         Get Current Location
-      </button>
-    </div>
+      </Button>
+      <Button variant='contained' color='primary' onClick={getCurrentPosition}>
+        2 ème bouton
+      </Button>
+      </div>
   );
 }

@@ -1,7 +1,11 @@
 # React + Vite + Capacitor
 
 Cette application démontre la capacité d'utiliser Capacitor pour créer une application web / moobile : Android et Ios
+Avec un environnement React + Vite + Material ui + Tailwind.
 
+Pour avoir acces à la géolocalisation il est nécessaire de gérér les autorisations / capacités.
+android: https://capacitorjs.com/docs/apis/geolocation
+ios: https://capacitorjs.com/docs/ios/configuration#configuring-infoplist
 
 Quelques commandes utiles:
 
@@ -24,3 +28,7 @@ sudo gem install -n /usr/local/bin cocoapods --user-install
 ## Android
 npx cap add android : créer le dossier android avec les fichiers prêts à être compilés pour android studio
 npx cap open ios: ouvre android studio avec le projet platform ios de VSCODE
+
+## Mise à jour au cours du développement
+npm run build pour reconstruire le projet
+npx cap sync pour synchroniser les modifications (reload from disk si besoin dans android studio)
