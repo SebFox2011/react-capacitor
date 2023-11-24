@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.capacitor.app-mergeDebugResources-33:/values-v23/values-v23.xml",
+            "outputFile": "com.capacitor.app-mergeDebugResources-38:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/sph/.gradle/caches/transforms-3/789cffb7bea2e962c0d45cd054350136/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

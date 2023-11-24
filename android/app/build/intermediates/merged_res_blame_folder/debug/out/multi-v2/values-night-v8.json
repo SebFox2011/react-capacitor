@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.capacitor.app-mergeDebugResources-33:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.capacitor.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/res/values-night-v8/values-night-v8.xml",

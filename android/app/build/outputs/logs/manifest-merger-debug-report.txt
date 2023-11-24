@@ -11,20 +11,25 @@ INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/a
 	android:name
 		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:28:13-62
 manifest
-ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
 MERGED from [:capacitor-camera] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:capacitor-geolocation] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-keyboard] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:capacitor-android] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:capacitor-cordova-android-plugins] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/sph/.gradle/caches/transforms-3/acb0279fa605e581f304fa8780c50bc3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/sph/.gradle/caches/transforms-3/72aa28c96a7c8d42723d246e7e451867/transformed/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.8.0] /home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:17:1-34:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/sph/.gradle/caches/transforms-3/567d0e2735ccda8aeb9d723df5550017/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/sph/.gradle/caches/transforms-3/8bb8b13c1438848676861a1388a97eb3/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /home/sph/.gradle/caches/transforms-3/32d85a34682b2d04b9faab0e5b16ad91/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-splashscreen:1.0.0] /home/sph/.gradle/caches/transforms-3/49d76494bab876e6a92e613846322b45/transformed/core-splashscreen-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/sph/.gradle/caches/transforms-3/74ddd2e8f0da8395f44a001491bcb573/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sph/.gradle/caches/transforms-3/a55ed4ae357c33d229facb35217bf50a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/sph/.gradle/caches/transforms-3/260b2ef98e6e31f80ab681ee8d15ef7b/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/sph/.gradle/caches/transforms-3/b756c83fade71f41ff2019ff0d774eaa/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
@@ -39,6 +44,7 @@ MERGED from [androidx.webkit:webkit:1.6.1] /home/sph/.gradle/caches/transforms-3
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sph/.gradle/caches/transforms-3/8236dcaf68b842289859eba9c60c4b20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sph/.gradle/caches/transforms-3/0cce26548d3aa928a1b0c95313e731fe/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/sph/.gradle/caches/transforms-3/107af9ca90ceaf46103cf9da67991669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/sph/.gradle/caches/transforms-3/28755d080042e88bf794da76b9c5aefa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sph/.gradle/caches/transforms-3/00705b0c6030446e47f6ffcbb655dc5a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/sph/.gradle/caches/transforms-3/5232b37b27dd736dd5d8dbd0c9371a78/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /home/sph/.gradle/caches/transforms-3/85f8faf81271017e491f43ab7c857437/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
@@ -54,6 +60,7 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/sph/.gradle/caches/
 MERGED from [androidx.transition:transition:1.2.0] /home/sph/.gradle/caches/transforms-3/b405ab682230b1d195d4dcf1168f3fe4/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sph/.gradle/caches/transforms-3/0d0edae3f4b1fe8f397960171162495c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] /home/sph/.gradle/caches/transforms-3/43650e5b202198aac970ab9e820b13fd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/sph/.gradle/caches/transforms-3/9fd60b495fe264677ab7a251483bab09/transformed/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.10.0] /home/sph/.gradle/caches/transforms-3/4084e7bcb4a1738e1ff26326a1997c6e/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/sph/.gradle/caches/transforms-3/e5fd0dbbf951c77a293238d0ddac3032/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/sph/.gradle/caches/transforms-3/6e0f101d74b5ee8b03221e990839c894/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
@@ -68,29 +75,33 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/s
 MERGED from [androidx.print:print:1.0.0] /home/sph/.gradle/caches/transforms-3/48f44416a1aa2afb113010b955b67f94/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/sph/.gradle/caches/transforms-3/c4eb8610416ba9fcff7203d70109fbae/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.apache.cordova:framework:10.1.1] /home/sph/.gradle/caches/transforms-3/05c878bccf3e6fff3e743a9590f85fe9/transformed/framework-10.1.1/AndroidManifest.xml:20:1-27:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
 	package
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:1-50:12
 		INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:4:5-36:19
+MERGED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
 MERGED from [:capacitor-cordova-android-plugins] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
 MERGED from [:capacitor-cordova-android-plugins] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
 MERGED from [com.google.android.material:material:1.8.0] /home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] /home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:27:5-32:19
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:27:5-32:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/sph/.gradle/caches/transforms-3/567d0e2735ccda8aeb9d723df5550017/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/sph/.gradle/caches/transforms-3/567d0e2735ccda8aeb9d723df5550017/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/sph/.gradle/caches/transforms-3/260b2ef98e6e31f80ab681ee8d15ef7b/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
@@ -175,10 +186,16 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:45:1-77
 	android:name
 		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:45:18-74
-uses-permission#android.permission.INTERNET
-ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:47:5-67
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:47:1-67
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:24:5-72
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:24:5-72
 	android:name
-		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:47:22-64
+		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:47:18-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:49:5-67
+	android:name
+		ADDED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml:49:22-64
 uses-sdk
 INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/app/src/main/AndroidManifest.xml
@@ -187,14 +204,22 @@ MERGED from [:capacitor-camera] /home/sph/Documents/Workshop/Exolis/react-vite-c
 MERGED from [:capacitor-camera] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-geolocation] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-geolocation] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-keyboard] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-keyboard] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-android] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-android] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-cordova-android-plugins] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
 MERGED from [:capacitor-cordova-android-plugins] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/sph/.gradle/caches/transforms-3/acb0279fa605e581f304fa8780c50bc3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/sph/.gradle/caches/transforms-3/acb0279fa605e581f304fa8780c50bc3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/sph/.gradle/caches/transforms-3/72aa28c96a7c8d42723d246e7e451867/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/sph/.gradle/caches/transforms-3/72aa28c96a7c8d42723d246e7e451867/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.8.0] /home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.8.0] /home/sph/.gradle/caches/transforms-3/ce772e98be97cecaac6df8f92293b429/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/sph/.gradle/caches/transforms-3/567d0e2735ccda8aeb9d723df5550017/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/sph/.gradle/caches/transforms-3/567d0e2735ccda8aeb9d723df5550017/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/sph/.gradle/caches/transforms-3/8bb8b13c1438848676861a1388a97eb3/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
@@ -203,6 +228,8 @@ MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /home/sph/.grad
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /home/sph/.gradle/caches/transforms-3/32d85a34682b2d04b9faab0e5b16ad91/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-splashscreen:1.0.0] /home/sph/.gradle/caches/transforms-3/49d76494bab876e6a92e613846322b45/transformed/core-splashscreen-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-splashscreen:1.0.0] /home/sph/.gradle/caches/transforms-3/49d76494bab876e6a92e613846322b45/transformed/core-splashscreen-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/sph/.gradle/caches/transforms-3/74ddd2e8f0da8395f44a001491bcb573/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/sph/.gradle/caches/transforms-3/74ddd2e8f0da8395f44a001491bcb573/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sph/.gradle/caches/transforms-3/a55ed4ae357c33d229facb35217bf50a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sph/.gradle/caches/transforms-3/a55ed4ae357c33d229facb35217bf50a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/sph/.gradle/caches/transforms-3/260b2ef98e6e31f80ab681ee8d15ef7b/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
@@ -231,6 +258,8 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sph/.gradle/cac
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sph/.gradle/caches/transforms-3/0cce26548d3aa928a1b0c95313e731fe/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/sph/.gradle/caches/transforms-3/107af9ca90ceaf46103cf9da67991669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/sph/.gradle/caches/transforms-3/107af9ca90ceaf46103cf9da67991669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/sph/.gradle/caches/transforms-3/28755d080042e88bf794da76b9c5aefa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/sph/.gradle/caches/transforms-3/28755d080042e88bf794da76b9c5aefa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sph/.gradle/caches/transforms-3/00705b0c6030446e47f6ffcbb655dc5a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sph/.gradle/caches/transforms-3/00705b0c6030446e47f6ffcbb655dc5a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/sph/.gradle/caches/transforms-3/5232b37b27dd736dd5d8dbd0c9371a78/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
@@ -261,6 +290,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sph/.gradle/caches/
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sph/.gradle/caches/transforms-3/0d0edae3f4b1fe8f397960171162495c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /home/sph/.gradle/caches/transforms-3/43650e5b202198aac970ab9e820b13fd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /home/sph/.gradle/caches/transforms-3/43650e5b202198aac970ab9e820b13fd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/sph/.gradle/caches/transforms-3/9fd60b495fe264677ab7a251483bab09/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/sph/.gradle/caches/transforms-3/9fd60b495fe264677ab7a251483bab09/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.10.0] /home/sph/.gradle/caches/transforms-3/4084e7bcb4a1738e1ff26326a1997c6e/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.10.0] /home/sph/.gradle/caches/transforms-3/4084e7bcb4a1738e1ff26326a1997c6e/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/sph/.gradle/caches/transforms-3/e5fd0dbbf951c77a293238d0ddac3032/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
@@ -313,6 +344,26 @@ action#android.media.action.IMAGE_CAPTURE
 ADDED from [:capacitor-camera] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
 	android:name
 		ADDED from [:capacitor-camera] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capacitor/camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
+activity#ee.forgr.biometric.AuthActivity
+ADDED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-11:59
+	android:label
+		ADDED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-65
+	android:theme
+		ADDED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-56
+	android:name
+		ADDED from [:capgo-capacitor-native-biometric] /home/sph/Documents/Workshop/Exolis/react-vite-capacitor/node_modules/@capgo/capacitor-native-biometric/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-59
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:25:22-71
+activity#androidx.biometric.DeviceCredentialHandlerActivity
+ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:28:9-31:67
+	android:exported
+		ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:31:13-64
+	android:name
+		ADDED from [androidx.biometric:biometric:1.0.1] /home/sph/.gradle/caches/transforms-3/d0262bc04065617c10aed276508b0d46/transformed/biometric-1.0.1/AndroidManifest.xml:29:13-78
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/sph/.gradle/caches/transforms-3/b756c83fade71f41ff2019ff0d774eaa/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
 	android:exported

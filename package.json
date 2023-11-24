@@ -17,6 +17,7 @@
     "@capacitor/geolocation": "^5.0.6",
     "@capacitor/ios": "^5.5.1",
     "@capacitor/keyboard": "^5.0.6",
+    "@capgo/capacitor-native-biometric": "^5.1.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.18",
